@@ -13,21 +13,22 @@
 #define APP_BACKGROUND_COLOR  [UIColor colorWithRed:0.949020f green:0.949020f blue:0.949020f alpha:1.0f]
 #define MENU_BACKGROUND_COLOR [UIColor colorWithRed:0.898039f green:0.898039f blue:0.898039f alpha:1.0f]
 
+//hsw625728
 static NSString * const kEKFont               = @"HelveticaNeue-UltraLight";
 static NSString * const kEKFont2              = @"Helvetica";
 static NSString * const kEKFont3              = @"HelveticaNeue-Light";
-static NSString * const kEKNavigationBarTitle = @"TrackMyDay";
+static NSString * const kEKNavigationBarTitle = @"时间追踪";
 
 static NSString * const kEKException          = @"Deprecated method";
 static NSString * const kEKExceptionReason    = @"Class instance is singleton. It's not possible to call +new method directly. Use +sharedInstance instead";
 
-static NSString * const kEKSavedWithSuccess   = @"Saved";
-static NSString * const kEKErrorOnSaving      = @"Error occured";
+static NSString * const kEKSavedWithSuccess   = @"保存成功！";
+static NSString * const kEKErrorOnSaving      = @"保存失败！";
 
 static NSString * const kEKSuccessHUDIcon     = @"success";
 static NSString * const kEKErrorHUDIcon       = @"error";
 
-static NSString * const kEKClearedWithSuccess = @"Cleared";
-static NSString * const kEKErrorOnClear       = @"No data to clear";
+static NSString * const kEKClearedWithSuccess = @"清除成功！";
+static NSString * const kEKErrorOnClear       = @"没有数据可以清除！";
 
 #endif

@@ -8,12 +8,13 @@
 
 #import "EKSettingsCell.h"
 
+//hsw625728
 static NSString * const kEKTopIcon       = @"database_backup";
-static NSString * const kEKTopTitle      = @"Export data";
+static NSString * const kEKTopTitle      = @"导出数据";
 static NSString * const kEKMiddleIcon    = @"trash";
-static NSString * const kEKMiddleTitle   = @"Clear data";
+static NSString * const kEKMiddleTitle   = @"清除数据";
 static NSString * const kEKBottomIcon    = @"tones";
-static NSString * const kEKBottomTitle   = @"Sounds";
+static NSString * const kEKBottomTitle   = @"音效开关";
 static CGFloat    const kEKTitleFontSize = 20.0f;
 
 

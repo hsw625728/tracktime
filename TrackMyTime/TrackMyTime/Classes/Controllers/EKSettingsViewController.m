@@ -13,10 +13,11 @@
 #import "EKCoreDataProvider.h"
 #import "EKFileSystemUtil.h"
 
-static NSString * const kEKSettingsVCTitle = @"TrackMyDay";
-static NSString * const kEKSent            = @"Sent";
-static NSString * const kEKFailed          = @"Failed";
-static NSString * const kEKExportFailed    = @"No data to export";
+//hsw625728
+static NSString * const kEKSettingsVCTitle = @"设置";
+static NSString * const kEKSent            = @"发送";
+static NSString * const kEKFailed          = @"失败";
+static NSString * const kEKExportFailed    = @"没有数据可导出！";
 
 
 @interface EKSettingsViewController () <EKSettingsTableViewDelegate, MFMailComposeViewControllerDelegate>

@@ -8,12 +8,13 @@
 
 #import "EKMenuCell.h"
 
+//hsw625728
 static NSString * const kEKTopIcon       = @"timer";
-static NSString * const kEKTopTitle      = @"Track";
+static NSString * const kEKTopTitle      = @"追踪";
 static NSString * const kEKMiddleIcon    = @"pie_chart";
-static NSString * const kEKMiddleTitle   = @"Stats";
+static NSString * const kEKMiddleTitle   = @"统计";
 static NSString * const kEKBottomIcon    = @"settings";
-static NSString * const kEKBottomTitle   = @"Settings";
+static NSString * const kEKBottomTitle   = @"设置";
 static CGFloat    const kEKTitleFontSize = 20.0f;
 
 

@@ -4,133 +4,133 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Meals</string>
+		<string>吃饭</string>
 		<key>hexColor</key>
 		<string>#FFCFAB</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Personal care</string>
+		<string>个人护理</string>
 		<key>hexColor</key>
 		<string>#52EDC7</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Transport</string>
+		<string>交通</string>
 		<key>hexColor</key>
 		<string>#79689A</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Working</string>
+		<string>工作</string>
 		<key>hexColor</key>
 		<string>#DEAA88</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Education</string>
+		<string>学习提高</string>
 		<key>hexColor</key>
 		<string>#34AADC</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Dating</string>
+		<string>约会</string>
 		<key>hexColor</key>
 		<string>#CDA4DE</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Self development</string>
+		<string>自我发展</string>
 		<key>hexColor</key>
 		<string>#9ACEEB</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Housework</string>
+		<string>做家务</string>
 		<key>hexColor</key>
 		<string>#F780A1</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Shopping</string>
+		<string>购物</string>
 		<key>hexString</key>
 		<string>#46EA78</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sports</string>
+		<string>运动健身</string>
 		<key>hexColor</key>
 		<string>#FFFF99</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Cooking</string>
+		<string>下厨</string>
 		<key>hexColor</key>
 		<string>#B3D557</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Walking</string>
+		<string>散步</string>
 		<key>hexColor</key>
 		<string>#3A77A1</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>TV</string>
+		<string>追剧看电视</string>
 		<key>hexColor</key>
 		<string>#1CAC78</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Music</string>
+		<string>听音乐</string>
 		<key>hexColor</key>
 		<string>#FEDD99</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Games</string>
+		<string>打游戏</string>
 		<key>hexColor</key>
 		<string>#448B9D</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Social networks</string>
+		<string>玩手机</string>
 		<key>hexColor</key>
 		<string>#C24655</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Family</string>
+		<string>陪家人</string>
 		<key>hexColor</key>
 		<string>#FE9063</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Friends</string>
+		<string>陪朋友</string>
 		<key>hexColor</key>
 		<string>#4FA99F</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Party</string>
+		<string>开趴体</string>
 		<key>hexColor</key>
 		<string>#CA4677</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Hobby</string>
+		<string>个人兴趣爱好</string>
 		<key>hexColor</key>
 		<string>#C79975</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Procrastination</string>
+		<string>拖延症</string>
 		<key>hexColor</key>
 		<string>#95918C</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sleep</string>
+		<string>睡觉</string>
 		<key>hexColor</key>
 		<string>#F0D55D</string>
 	</dict>

@@ -12,14 +12,15 @@
 #import "EKCoreDataProvider.h"
 #import "EKChartViewController.h"
 
-static NSString * const kEKNoDataFound      = @"No data found";
-static NSString * const kEKInvalidDateRange = @"Select present date";
-static NSString * const kEKChartButtonTitle = @"Chart";
-static NSString * const kEKChartVCTitle     = @"TrackMyDay";
+//hsw625728
+static NSString * const kEKNoDataFound      = @"没有找到数据";
+static NSString * const kEKInvalidDateRange = @"请选择正确的时间范围";
+static NSString * const kEKChartButtonTitle = @"生成";
+static NSString * const kEKChartVCTitle     = @"统计图表";
 static NSString * const kEKTitleToPass      = @"%@";
-static NSString * const kEKBackButtonTitle  = @"Back";
-static NSString * const kEKStubDate         = @"DD.MM.YYYY - DD.MM.YYYY";
-static NSString * const kEKTopLabel         = @"Select date range for stats";
+static NSString * const kEKBackButtonTitle  = @"返回";
+static NSString * const kEKStubDate         = @"YYYY.MM.DD - YYYY.MM.DD";
+static NSString * const kEKTopLabel         = @"滑动日期选择统计范围";
 
 @interface EKCalendarViewController () <DSLCalendarViewDelegate>
 
@@ -147,8 +148,8 @@ static NSString * const kEKTopLabel         = @"Select date range for stats";
     
     if (range != nil) {
         self.rangeForFetch = range;
-        self.topLabel.text = [NSString stringWithFormat:@"%ld.%ld.%ld - %ld.%ld.%ld", (long)range.startDay.day, (long)range.startDay.month, (long)range.startDay.year,
-                              (long)range.endDay.day, (long)range.endDay.month, (long)range.endDay.year];
+        self.topLabel.text = [NSString stringWithFormat:@"%ld.%ld.%ld - %ld.%ld.%ld", (long)range.startDay.year, (long)range.startDay.month, (long)range.startDay.day,
+                              (long)range.endDay.year, (long)range.endDay.month, (long)range.endDay.day];
     }
 }
 

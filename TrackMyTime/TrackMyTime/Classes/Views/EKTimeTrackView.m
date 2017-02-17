@@ -9,10 +9,11 @@
 #import "EKTimeTrackView.h"
 #import "EKAttributedStringUtil.h"
 
-static NSString * const kEKStartButton       = @"Start";
-static NSString * const kEKStopOnStartButton = @"Stop";
-static NSString * const kEKResetButton       = @"Reset";
-static NSString * const kEKSaveButton        = @"Save";
+//hsw625728
+static NSString * const kEKStartButton       = @"开始";
+static NSString * const kEKStopOnStartButton = @"结束";
+static NSString * const kEKResetButton       = @"重置";
+static NSString * const kEKSaveButton        = @"保存";
 static NSString * const kEKCounter           = @"00:00:00.00";
 
 

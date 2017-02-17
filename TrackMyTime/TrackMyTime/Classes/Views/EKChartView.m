@@ -15,8 +15,9 @@ static CGFloat const kEKPieLabelRadius       = 135.0f;
 static CGFloat const kEKChartSideSize        = 320.0f;
 static CGFloat const kEKChartCenterY         = 131.0f;
 
-static NSString * const kEKActivityLabelText = @"Activity";
-static NSString * const kEKTotalLabelText    = @"Total";
+//hsw625728
+static NSString * const kEKActivityLabelText = @"当前选中";
+static NSString * const kEKTotalLabelText    = @"总计";
 static NSString * const kEKClockIcon         = @"clock";
 
 
